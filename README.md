@@ -1,2 +1,2 @@
 # matlab-code
-contains simulations 
+contains code in matlab 
